@@ -45,8 +45,7 @@ img, video { display: block; max-width: 100%; }
 .hero p { margin: 0 0 28px; font-size: 19px; color: #fff; max-width: 34em; }
 .stores { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; }
 .stores .play img { height: 70px; width: auto; margin: -6px -6px; }
-.soon { display: inline-flex; align-items: center; gap: 8px; height: 46px; padding: 0 18px; border-radius: 12px; background: rgba(22, 21, 38, 0.82); color: #fff; font-size: 15px; font-weight: 500; }
-.soon svg { width: 18px; height: 18px; fill: currentColor; }
+.stores .apple img { display: block; height: 47px; width: auto; }
 
 .phone { justify-self: center; width: min(300px, 78vw); padding: 10px; border-radius: 48px; background: #0d0c19; box-shadow: 0 30px 60px rgba(90, 30, 0, 0.35), inset 0 0 0 2px #3a3950; }
 .phone video { width: 100%; height: auto; aspect-ratio: 600 / 1304; border-radius: 38px; background: #161526; }
